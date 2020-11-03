@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "827797472752",
+    "firebase_url": "https://invogen-bbcc9.firebaseio.com",
+    "project_id": "invogen-bbcc9",
+    "storage_bucket": "invogen-bbcc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827797472752:android:959c7c370ff9110bc48935",
+        "android_client_info": {
+          "package_name": "com.example.invogen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827797472752-8tm1hrjil7ca4u4kjo34v01c26benpnt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWWuSGFEENLwfaY3RTFcNb-mdLkwdQtF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827797472752-8tm1hrjil7ca4u4kjo34v01c26benpnt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
